@@ -17,3 +17,7 @@ div.static img {
     margin-top: 10px;
     border: 2px solid #000000;
 }
+
+body {
+    min-height: 200vh;
+}
